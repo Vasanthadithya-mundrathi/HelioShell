@@ -1,4 +1,4 @@
-# HeliOShell
+# HelioShell
 
 An AI-powered terminal intelligence shell that converts natural language into shell commands.
 
@@ -53,6 +53,10 @@ ln -s $(pwd)/helio.sh /usr/local/bin/helio  # optional: link to PATH
 - **Cerebras**: https://cloud.cerebras.ai/
 - **Google Gemini**: https://aistudio.google.com/app/apikey
 
+
+## Authors
+
+Vasanthadithya & Geethika
 ## License
 
 MIT
