@@ -4,7 +4,7 @@ An AI-powered terminal intelligence shell that converts natural language into sh
 
 ## Features
 
-- **AI Command Generation** - Convert plain English to shell commands using Cerebras (Llama 3.1 8B) or Google Gemini (2.0 Flash)
+- **AI Command Generation** - Convert plain English to shell commands using Cerebras (Llama 3.1 8B) or Google Gemini (3.0 Flash)
 - **Smart Tool Detection** - Detects 60+ installed tools (nmap, curl, masscan, etc.) and only suggests available commands
 - **Multiple Modes** - `shell`, `recon`, `exploit`, `chat`, `code` for different use cases
 - **Safety First** - Destructive command detection, confirmation prompts, secure config storage
@@ -53,10 +53,13 @@ ln -s $(pwd)/helio.sh /usr/local/bin/helio  # optional: link to PATH
 - **Cerebras**: https://cloud.cerebras.ai/
 - **Google Gemini**: https://aistudio.google.com/app/apikey
 
+## STATUS
+
+completed full test on cerebras needs to test on gemini API . 
 
 ## Authors
 
-Vasanthadithya & Geethika
+Mundrathi Vasanthadithya & Yedla Sai Geethika
 ## License
 
 MIT
